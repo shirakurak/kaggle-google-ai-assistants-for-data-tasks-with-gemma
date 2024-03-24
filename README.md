@@ -91,6 +91,10 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 
 > ポール・ムーニー、アシュリー・チョウ(2024).Google - GemmaによるデータタスクのためのAIアシスタント。Kaggle. https://kaggle.com/competitions/data-assistants-with-gemma
 
+## Data
+
+本コンペでは、Datasetは使用されない
+
 ## Log
 
 ### 20240324
