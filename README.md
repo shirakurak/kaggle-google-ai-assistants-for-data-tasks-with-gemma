@@ -4,6 +4,7 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 
 ## Info
 
+- [issue board](https://github.com/users/shirakurak/projects/8/views/1)
 - [Google Drive](https://drive.google.com/drive/u/0/folders/1kZqQVxOEP6psLPWO4lPMSIS5cCQv5Nvs)
 
 ## Basis
