@@ -103,3 +103,7 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 - join
 - Overviewを翻訳しつつ、読む
   - なんでもできそうなLLMを、データサイエンスの特定のユースケースに適応させるアプローチを考え、提示する
+
+### 20240325
+
+- 次に調べたことをメモっていく: https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/4
