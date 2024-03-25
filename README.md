@@ -2,6 +2,12 @@
 
 Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma) コンペ用リポジトリ
 
+以下にインスパイアされている：
+
+- [Kaggle日記という戦い方](https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068)
+- [Kaggle日記について](https://speakerdeck.com/fkubota/kaggleri-ji-nituite)
+- [kaggle-Cornell-Birdcall-Identification](https://github.com/fkubota/kaggle-Cornell-Birdcall-Identification)
+
 ## Info
 
 - [issue board](https://github.com/users/shirakurak/projects/8/views/1)
@@ -107,3 +113,6 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 ### 20240325
 
 - 次に調べたことをメモっていく: https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/4
+- 実際に5つから選択するなら、以下のどちらかか
+  - 基本的なデータサイエンスの概念を説明したり教えたりする
+  - Kaggleの解決策を要約する
