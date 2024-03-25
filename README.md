@@ -116,3 +116,4 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 - 実際に5つから選択するなら、以下のどちらかか
   - 基本的なデータサイエンスの概念を説明したり教えたりする
   - Kaggleの解決策を要約する
+- Gammaについても知る必要あるはずなので： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/6
