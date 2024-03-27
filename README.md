@@ -121,3 +121,7 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 ### 20240326
 
 - Get startedを読みつつ、調べる。記録などは引き続き： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/6
+
+### 20240327
+
+- [社内ブログ用の記事](https://github.com/shirakurak/pipe/blob/main/10_essay/%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%83%9F%E3%82%B9%E3%81%A3%E3%81%A6%E6%AD%BB%E3%81%AB%E3%81%9D%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%923%E3%81%A4%E5%85%B1%E6%9C%89.md)を書くことに夢中になっていたが、戻ってきた。
