@@ -129,6 +129,7 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 
 ### 20240328
 
-- こちらに入っている： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/1
-- 数学を入れて、オリジナルっぽい見方でできないかなぁなどと思っている
-- Kaggleもちょっとずつ読んでいけば、めっちゃ恐れるものでもないかもしれないと少し思えてる（まぁわかんないことはいっぱいあるんだけど）　
+- いくつかの良さそうなコードを見て、1つ参考にするものを決めた、参考： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/1
+- そこに数学要素を入れて、オリジナルっぽさを出す予定
+- Kaggleもちょっとずつ読んでいけば、めっちゃ恐れるものでもないかもしれないと少し思えてる（まぁわかんないことはいっぱいあるんだけど）
+- コンペ用にノートを作った：　["Data Science and Math with Gamma" with math](https://www.kaggle.com/code/kenichishirakura/data-science-and-math-with-gamma-with-math)https://www.kaggle.com/code/kenichishirakura/data-science-and-math-with-gamma-with-math
