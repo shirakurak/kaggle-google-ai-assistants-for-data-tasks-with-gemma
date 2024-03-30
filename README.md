@@ -138,3 +138,9 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 
 - ノートに序文を書いた
 - Get startedの内容をまずは書いて、数学的な側面をかけたらいいと思っているが、うーん、難しそうである
+
+### 20240330
+
+- https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/12 に取り組み中
+  - まずはGet started ~をベースに、本当に数学を混ぜ込めるか？ということを考えている
+  - 混ぜ込めるかどうかの判断に、データサイエンスと数学の知見が必要で、望むところ感もある（間に合うかは。。）
