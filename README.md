@@ -148,3 +148,8 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 ### 20240331
 
 - Basic promptのところまで書いたので、[Fine-tune Gemma models in Keras using LoRA](https://ai.google.dev/gemma/docs/lora_tuning)にちょっと行く
+
+### 20240401
+
+- 引き続き： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/7 (Y)
+  - なかなか時間かかってきているが、対策考えた方がいいのかな (W) → 調べてみる (T)
