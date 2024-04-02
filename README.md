@@ -153,3 +153,10 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 
 - 引き続き： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/7 (Y)
   - なかなか時間かかってきているが、対策考えた方がいいのかな (W) → 調べてみる (T)
+
+### 20240402
+
+- https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/7 を最後まで一応進めた（ほぼ流れを確認した感じ）
+- 今手がない
+  - 他のcodeを読む方向性としては、こちら： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/10
+  - 今まで書いた部分のデータサイエンス方面をもうちょっとrichにする方向もありはするが
