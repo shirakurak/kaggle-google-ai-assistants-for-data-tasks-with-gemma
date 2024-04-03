@@ -160,3 +160,7 @@ Kaggle [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.c
 - 今手がない
   - 他のcodeを読む方向性としては、こちら： https://github.com/shirakurak/kaggle-google-ai-assistants-for-data-tasks-with-gemma/issues/10
   - 今まで書いた部分のデータサイエンス方面をもうちょっとrichにする方向もありはするが
+
+### 20240403
+
+- discussionに目を通す、[New to Kaggle or Machine Learning? Check this out ~](https://www.kaggle.com/competitions/data-assistants-with-gemma/discussion/478254)など
